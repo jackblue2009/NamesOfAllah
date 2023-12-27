@@ -1,0 +1,596 @@
+[
+    {
+        "id": 1,
+        "name": "Merciful",
+        "pronounce": "Ar-Rahmaan",
+        "text": "Abundent in mercy, a name that is restricted to Him and cannot be said of anyone else. He is merciful with great blessings"
+    },
+    {
+        "id": 2,
+        "name": "The Most Merciful",
+        "pronounce": "Ar-Raheem",
+        "text": "He is ever gracious, always gracious, His mercy never ends, He is merciful with minutes of blessings"
+    },
+    {
+        "id": 3,
+        "name": "The King",
+        "pronounce": "Al-Malik",
+        "text": "The King of Kings, His is the dominion, the Owner of the Day of Judgement, the King of creation, for He is the absolute Owner"
+    },
+    {
+        "id": 4,
+        "name": "The Holy",
+        "pronounce": "al-Quddoos",
+        "text": "The pure, free from faults and shortcomings, and from everything that surrounds the minds"
+    },
+    {
+        "id": 5,
+        "name": "Peace",
+        "pronounce": "As-Salaam",
+        "text": "Spreading peace among people, He is free from deficiency, defect, and annihilation"
+    },
+    {
+        "id": 6,
+        "name": "The Faithful",
+        "pronounce": "Al-Mu'min",
+        "text": "The One Who gives Emaan and Security"
+    },
+    {
+        "id": 7,
+        "name": "The Dominator",
+        "pronounce": "Al-Muhaimin",
+        "text": "The Preserver of everything, the One who maintains His creation, and is aware of the secrets of matters and the secrets of the hearts"
+    },
+    {
+        "id": 8,
+        "name": "The Mighty",
+        "pronounce": "Al-Azeez",
+        "text": "Alone in glory, apparent and invincible, strong and invincible, the conqueror of all things"
+    },
+    {
+        "id": 9,
+        "name": "The  Ever Compeller",
+        "pronounce": "Al-Jabbaar",
+        "text": "His will is carried out, and no one deviates from His discretion, the Almighty to create according to His will"
+    },
+    {
+        "id": 10,
+        "name": "The Lofty",
+        "pronounce": "Al-Mutakabbir",
+        "text": "He is transcendent of the attributes of creation, alone in greateness and pride"
+    },
+    {
+        "id": 11,
+        "name": "The Creator",
+        "pronounce": "Al-Khaaliq",
+        "text": "The Creator and Predestiner of all things, the Creator of things out of nothing, the Creator of every artisan and his work"
+    },
+    {
+        "id": 12,
+        "name": "The Maker",
+        "pronounce": "Al-Bari`",
+        "text": "He created creation by His power and not from a previous example. He is able to bring into existance what He has destined."
+    },
+    {
+        "id": 13,
+        "name": "The Fashioner",
+        "pronounce": "Al-Musawwir",
+        "text": "He gave every entity a special image that distinguishes it, and a unique form, despite the diversity and abundance of entities"
+    },
+    {
+        "id": 14,
+        "name": "The Ever Forgiving",
+        "pronounce": "Al-Ghaffaar",
+        "text": "He forgives sins and covers faults in this world and the hereafter"
+    },
+    {
+        "id": 15,
+        "name": "The Ever Subduing",
+        "pronounce": "Al-Qahhaar",
+        "text": "The Conqueror is The One Who conquers His creation with His authority and ability, and the necks submit to Him, and the tyrants are humiliated to Him, and He directs His creation to what He wants, willingly or unwillingly, and faces are obstinate to Him"
+    },
+    {
+        "id": 16,
+        "name": "The Ever Endowing",
+        "pronounce": "Al-Wahhaab",
+        "text": "He is the One who bestows blessings upon His servants, He gives without compensation, He grants what is needed without asking, He is abundent in blessings, and He is always giving"
+    },
+    {
+        "id": 17,
+        "name": "The Ever Sustaining",
+        "pronounce": "Al-Razzaaq",
+        "text": "He created sustenance, gave all creatures their sustenance, and provides every being with what it needs, and preserves its life"
+    },
+    {
+        "id": 18,
+        "name": "The Ever Opening",
+        "pronounce": "Al-Fattaah",
+        "text": "He opens up closed matters, simplifies difficult things, and in His hand are the keys to the heavens and the earth"
+    },
+    {
+        "id": 19,
+        "name": "The Omniscient",
+        "pronounce": "Al-Aleem",
+        "text": "He knows the details of matters, the subleties of things, and the secrets of consciences and souls. Not an atom's weight escapes Him, for His knowledge encompasses all things"
+    },
+    {
+        "id": 20,
+        "name": "The Constrictor",
+        "pronounce": "Al-Qaabid",
+        "text": "He collects sustenance from whomsoever He pleases from among creation, with His justice and wisdom"
+    },
+    {
+        "id": 21,
+        "name": "The Expander",
+        "pronounce": "Al-Baasit",
+        "text": "He expands the provision for whomever He wishes among His servants through His goodness and mercy"
+    },
+    {
+        "id": 22,
+        "name": "The Demoter",
+        "pronounce": "Al-Khaafid",
+        "text": "He will demolish everyone who was tyrannical, forced, violated His law, and rebelled"
+    },
+    {
+        "id": 23,
+        "name": "The Promoter",
+        "pronounce": "Ar-Raafi",
+        "text": "He raises His faithful servants through obedience, and raises them above their enemy and gives them victory, and He is the Raiser of the Seven Heavens"
+    },
+    {
+        "id": 24,
+        "name": "The Exalting",
+        "pronounce": "Al-Muiz",
+        "text": "He grants power, dominance, and strength to whomever He wishes, and honors him"
+    },
+    {
+        "id": 25,
+        "name": "The Humiliator",
+        "pronounce": "Al-Muthil",
+        "text": "He takes power, dominance, and strength from whomever He wishes, thus humiliating him"
+    },
+    {
+        "id": 26,
+        "name": "The All Hearing",
+        "pronounce": "As-Samee",
+        "text": "He hears all the apparent and hidden voices, hidden and obvious, and is completely surrounded by them. He hears the questioners, the supplicants, and the worshippers, and He answers them and rewards them"
+    },
+    {
+        "id": 27,
+        "name": "The All Seeing",
+        "pronounce": "Al-Baseer",
+        "text": "he sees all things, both apparent and hidden, and encompasses everything with knowledge"
+    },
+    {
+        "id": 28,
+        "name": "The Judge",
+        "pronounce": "Al-Hakam",
+        "text": "He separates His creatures as He wills, and He separates between truth and falsehood. There is no one to oppose His decree, nor to follow His judgement"
+    },
+    {
+        "id": 29,
+        "name": "The Just",
+        "pronounce": "Al-Adl",
+        "text": "He forbade injustice against Himself, and made it forbidden for His servants. He is above injustice and cruelity in His rulings and actions, and He gives every person his right"
+    },
+    {
+        "id": 30,
+        "name": "The Gracious",
+        "pronounce": "Al-Lateef",
+        "text": "He is gentle with His servants. He provides, facilitates, and is kind to them. He is gentle to them and is kind them"
+    },
+    {
+        "id": 31,
+        "name": "The Knower",
+        "pronounce": "Al-Khabeer",
+        "text": "He is All-Knowing of the details of matters, nothing is hidden from Him, and nothing escapes His knowledge. He is All-Knowing of what was and will be"
+    },
+    {
+        "id": 32,
+        "name": "The Forbearer",
+        "pronounce": "Al-Haleem",
+        "text": "He grants respite and does not neglect, covers sins, and delays punishment, so He provides for the sinner as He provides for the obedient"
+    },
+    {
+        "id": 33,
+        "name": "The Great",
+        "pronounce": "Al-Azeem",
+        "text": "He is great in everything, great in Himself, His names, and His attributes. No one equals Him, nor is great comparable to Him"
+    },
+    {
+        "id": 34,
+        "name": "The All Forgiving",
+        "pronounce": "Al-Ghafoor",
+        "text": "The One who covers the sins of His servants and overlooks their sins and transgressions. The difference between this name and the name Al-Ghaffar is that the name Al-Ghaffar denotes the forgiveness of the sin, no matter how great it is and how desperate its perpetrator is for forgiveness. As for Al-Ghaffar, it indicates God’s continuous forgiveness of various sins, because man is a sinner and God is Forgiver."
+    },
+    {
+        "id": 35,
+        "name": "The All Thankful",
+        "pronounce": "Ash-Shakoor",
+        "text": "A few of the servants' deeds purifies with Him, so He accepts them and doubles their reward"
+    },
+    {
+        "id": 36,
+        "name": "The High One",
+        "pronounce": "Al-Aliyy",
+        "text": "Sublime in status, He is not encompassed by the descriptions of those who describe Him. He is transcendent above equals and opposites. All meanings of transcendence are fixed for Him in essence, oppression, and status."
+    },
+    {
+        "id": 37,
+        "name": "The Grand",
+        "pronounce": "Al-Kabeer",
+        "text": "The Great, the Majestic, the One who is proud in his attributes and actions, so he does not need anything, and nothing is impossible for him."
+    },
+    {
+        "id": 38,
+        "name": "The All Preserving",
+        "pronounce": "Al-Hafeez",
+        "text": "Nothing, even the weight of an atom, escapes his memorization. His memorization does not change, does not disappear, and is not subject to change."
+    },
+    {
+        "id": 39,
+        "name": "The All Providing",
+        "pronounce": "Al-Muqeet",
+        "text": "The One who is responsible for delivering the sustenance of creation to them, and He is the Protector, the Powerful, the Powerful, the Appreciator, and the Provider."
+    },
+    {
+        "id": 40,
+        "name": "The All Reckoning",
+        "pronounce": "Al-Haseeb",
+        "text": "The Sufficient One from Whom is the sufficiency of the servants, depend on Him, and the servants are sufficient by His grace."
+    },
+    {
+        "id": 41,
+        "name": "The Majestic",
+        "pronounce": "Al-Jaleel",
+        "text": "The Absolute Great, who is characterized by all the attributes of perfection, and who is described with their perfection, who is free from all deficiency."
+    },
+    {
+        "id": 42,
+        "name": "The Munificent",
+        "pronounce": "Al-Kareem",
+        "text": "He is the Most Benevolent, the Most Generous, the Giver whose gifts never run out. He is the Absolutely Generous, the One who combines all kinds of goodness, honor, and virtues, and is praised for His actions."
+    },
+    {
+        "id": 43,
+        "name": "The Watchful",
+        "pronounce": "Ar-Raqeeb",
+        "text": "He watches the conditions of His servants, knows their words, and counts their deeds. He is the Protector from whom nothing escapes."
+    },
+    {
+        "id": 44,
+        "name": "The Answerer",
+        "pronounce": "Al-Mujeeb",
+        "text": "He answers the supplications of those who called upon Him, and the questions of those who asked Him, and He responds to them with giving and acceptance, and no one is asked except Him."
+    },
+    {
+        "id": 45,
+        "name": "The Broad",
+        "pronounce": "Al-Wasi",
+        "text": "His provision extends to all of His creation, and His mercy extends to everything, encompassing everything."
+    },
+    {
+        "id": 46,
+        "name": "The Wise",
+        "pronounce": "Al-Hakeem",
+        "text": "The One who is right in His planning, the Kind in His assessment, the Aware of the facts of matters, the All-Knowing of His mighty judgment in all of His creation, and His decree is good and His judgment and justice."
+    },
+    {
+        "id": 47,
+        "name": "The Affectionate",
+        "pronounce": "Al-Wadood",
+        "text": "He loves his servants, and is beloved in the hearts of his saints."
+    },
+    {
+        "id": 48,
+        "name": "The Glorious",
+        "pronounce": "Al-Majeed",
+        "text": "He is glorified by His actions, and His creation glorifies Him because of His greatness. The Glorious is the most generous, and He described Himself as Glorious, which includes the abundance and breadth of His attributes of perfection, the innumerability of creation, the vastness of His deeds, the abundance of His goodness and its continuity. It also means the one who reaches the end in glory, abundant benevolence, great giving, great righteousness."
+    },
+    {
+        "id": 49,
+        "name": "The Resurrector",
+        "pronounce": "Al-Baith",
+        "text": "He is the One who resurrects creation on the Day of Judgement, He the Sender of His messengers to His servants, and He the Sender of aid to His servant."
+    },
+    {
+        "id": 50,
+        "name": "The All Witness",
+        "pronounce": "Ash-Shaheed",
+        "text": "The present one from whom nothing escapes, for he is aware of everything, sees it, and knows its details."
+    },
+    {
+        "id": 51,
+        "name": "The Truth",
+        "pronounce": "Al-Haqq",
+        "text": "He fulfills the truth through His words, and supports His saints, for He is worthy of worship."
+    },
+    {
+        "id": 52,
+        "name": "The Advocate",
+        "pronounce": "Al-Wakeel",
+        "text": "He is the One who is responsible for creation and takes care of their affairs. Whoever trusts in Him, He takes care of Him and suffices Him, and whoever is freed to Him, He enriches and pleases Him."
+    },
+    {
+        "id": 53,
+        "name": "The Mighty",
+        "pronounce": "Al-Qawiyy",
+        "text": "He is the possessor of complete and extremely perfect power. He is victorious and cannot be defeated, for His power is beyond all power. His decree is not rejected by anyone. His command is carried out, and His decree is carried out in His creation. His punishment is severe for those who disbelieve in His verses and deny His proofs."
+    },
+    {
+        "id": 54,
+        "name": "The Firm",
+        "pronounce": "Al-Mateen",
+        "text": "The strong one is the one who does not need soldiers, supplies, or helpers to carry out his ruling. He is infinite in strength, his actions are not subject to hardship, and he is not affected by any wrongdoing."
+    },
+    {
+        "id": 55,
+        "name": "The Patron",
+        "pronounce": "Al-Waliyy",
+        "text": "The lover, the supporter of those who obey him, the one who supports his saints, vanquishes his enemies, and takes charge of the affairs of creation."
+    },
+    {
+        "id": 56,
+        "name": "The Praiseworthy",
+        "pronounce": "Al-Hameed",
+        "text": "deserving of praise and praise; On Himself, His attributes, and His countless blessings."
+    },
+    {
+        "id": 57,
+        "name": "The Reckoner",
+        "pronounce": "Al-Muhsee",
+        "text": "He counted everything with his knowledge, so he did not miss anything minute or significant."
+    },
+    {
+        "id": 58,
+        "name": "The Initiator",
+        "pronounce": "Al-Mubdi'",
+        "text": "He created things and invented them starting with no previous example."
+    },
+    {
+        "id": 59,
+        "name": "The Restorer",
+        "pronounce": "Al-Mueed",
+        "text": "He restores creation after life to death in this world, and after death to life on the Day of Resurrection."
+    },
+    {
+        "id": 60,
+        "name": "The Life Giver",
+        "pronounce": "Al-Muhyi",
+        "text": "The Creator of life and the Giver of it to whomever He wills, He revives creation from nothingness and then revives them after death."
+    },
+    {
+        "id": 61,
+        "name": "The Life Taker",
+        "pronounce": "Al-Mumeet",
+        "text": "Death is destined for everyone who kills him, and there is no one to die except Him. He oppresses His servants with death whenever He wants and how He wants."
+    },
+    {
+        "id": 62,
+        "name": "The Living",
+        "pronounce": "Al-Hayy",
+        "text": "He is characterized by eternal life that has no beginning or end, eternally eternal, living and never dying."
+    },
+    {
+        "id": 63,
+        "name": "The Ever Rising",
+        "pronounce": "Al-Qayyoom",
+        "text": "The one who is self-sufficient, the one who is independent of others, the one who manages the affairs of his creation in creating them and providing for them."
+    },
+    {
+        "id": 64,
+        "name": "The Author",
+        "pronounce": "Al-Waajid",
+        "text": "He lacks nothing, and nothing is impossible for Him. He finds everything He asks for, and realizes everything He wants."
+    },
+    {
+        "id": 65,
+        "name": "The Glory Giver",
+        "pronounce": "Al-Maajid",
+        "text": "To Him belongs infinite perfection and splendid glory. He has glory in descriptions and deeds. He treats His servants with generosity."
+    },
+    {
+        "id": 66,
+        "name": "The One",
+        "pronounce": "Al-Waahid",
+        "text": "The Individual is unique in Himself, His attributes, and His actions. He is one in His kingdom, no one can compete with Him, and He has no partner, Glory be to Him."
+    },
+    {
+        "id": 67,
+        "name": "The Steadfast",
+        "pronounce": "As-Samad",
+        "text": "The One who is obeyed, anything cannot be fulfilled without Him, He is the distination of his servants' needs and tasks of their religion and their world."
+    },
+    {
+        "id": 68,
+        "name": "The Powerful",
+        "pronounce": "Al-Qaadir",
+        "text": "He is able to find what is nonexistent and destroy what is existing according to what wisdom requires, neither adding to it nor subtracting from it."
+    },
+    {
+        "id": 69,
+        "name": "The Omnipotent",
+        "pronounce": "Al-Muqtadir",
+        "text": "He is able to reform creatures in a way that no one else can."
+    },
+    {
+        "id": 70,
+        "name": "The Advancer",
+        "pronounce": "Al-Muqaddim",
+        "text": "He presents things and puts them in their proper places. Whoever deserves to be presented, presents them."
+    },
+    {
+        "id": 71,
+        "name": "The Delayer",
+        "pronounce": "Al-Mu`akh-khir",
+        "text": "He delays things and puts them in their proper place. He delays things for whomever he wishes, from the ungodly and the infidels, and everyone who deserves to be delayed."
+    },
+    {
+        "id": 72,
+        "name": "The First",
+        "pronounce": "Al-'Awwal",
+        "text": "Nothing preceded Him in existence, for He was the first before existence."
+    },
+    {
+        "id": 73,
+        "name": "The Last",
+        "pronounce": "Al-'Akhir",
+        "text": "What remains after the annihilation of His creation is eternal survival. Everything is destroyed and He alone remains, so there is nothing after Him."
+    },
+    {
+        "id": 74,
+        "name": "The Manifest",
+        "pronounce": "Az-Zaahir",
+        "text": "He appeared above and above everything. His existence is apparent due to the abundance of His evidence."
+    },
+    {
+        "id": 75,
+        "name": "The Unmanifest",
+        "pronounce": "Al-Baatin",
+        "text": "He knows the insides and secrets of things, and He is closer to us than our jugular vein."
+    },
+    {
+        "id": 76,
+        "name": "The Ordainer",
+        "pronounce": "Al-Walee",
+        "text": "The owner of things who disposes of them according to his will and wisdom, carries out his command over them, and applies his ruling over them."
+    },
+    {
+        "id": 77,
+        "name": "The Transcendent",
+        "pronounce": "Al-Mutaali",
+        "text": "He is exalted above the deceit of the slanderers, and abstain from the whisperings of the perplexed."
+    },
+    {
+        "id": 78,
+        "name": "The Beneficient",
+        "pronounce": "Al-Barr",
+        "text": "He is compassionate to His servants with His righteousness and kindness, He bestows His kind gifts on those who ask, and He is true to them in what He promised."
+    },
+    {
+        "id": 79,
+        "name": "The Ever Accepting of Repentance",
+        "pronounce": "At-Tawwaab",
+        "text": "He helps His servants to repent until He repents to them, and He accepts their repentance, and He responds to supplication with giving, and repentance with forgiveness."
+    },
+    {
+        "id": 80,
+        "name": "The Avenger",
+        "pronounce": "Al-Muntaqim",
+        "text": "He reduces the appearance of tyrants, and tightens the punishment for the disobedient, after giving excuses and warnings."
+    },
+    {
+        "id": 81,
+        "name": "The Pardoner",
+        "pronounce": "Al-Afuww",
+        "text": "He avoids blaming you for sins and does not remind you of your faults. He erases bad deeds and overlooks transgressions."
+    },
+    {
+        "id": 82,
+        "name": "The Compassionate",
+        "pronounce": "Ar-Ra'uf",
+        "text": "He is compassionate towards sinners by repenting, he is serious in his kindness and compassion, he covers faults and then forgives them."
+    },
+    {
+        "id": 83,
+        "name": "The Owner of Dominion",
+        "pronounce": "Malik Al-Mulk",
+        "text": "He who disposes of his property as he pleases, there is no one who can oppose his rule or follow up on his command."
+    },
+    {
+        "id": 84,
+        "name": "The Majestic & Bounteous One",
+        "pronounce": "Thul-Jalali Wal-Ikram",
+        "text": "He is unique with the attributes of majesty, perfection, and greatness, specializing in honor and dignity, and worthy of being revered."
+    },
+    {
+        "id": 85,
+        "name": "The Equitable",
+        "pronounce": "Al-Muqsit",
+        "text": "He is just in his ruling, who treats the oppressed justly with the oppressor, then perfects his justice and satisfies the oppressor after pleasing the oppressed."
+    },
+    {
+        "id": 86,
+        "name": "The Gatherer",
+        "pronounce": "Al-Jaami",
+        "text": "The collection of all perfections, in essence, description, and action, brings together similar and disparate creatures, and brings together the first and the last."
+    },
+    {
+        "id": 87,
+        "name": "The Rich",
+        "pronounce": "A-Ghaniyy",
+        "text": "He does not need anything, and He is independent of everything else, and everyone who is hostile to Him lacks Him."
+    },
+    {
+        "id": 88,
+        "name": "The Enricher",
+        "pronounce": "Al-Mughni",
+        "text": "He is the Giver of wealth to His servants, He enriches whom He wills with His riches, and He is sufficient for whomsoever He wills of His servants."
+    },
+    {
+        "id": 89,
+        "name": "The Giver",
+        "pronounce": "Al-Mua'tyy",
+        "text": "He gave everything."
+    },
+    {
+        "id": 90,
+        "name": "The Preventer",
+        "pronounce": "Al-Maani",
+        "text": "He forbids giving to whomever one wants as a test or protection."
+    },
+    {
+        "id": 91,
+        "name": "The Distresser",
+        "pronounce": "Ad-Daarr",
+        "text": "Destined to cause harm to whoever he wants, however he wants."
+    },
+    {
+        "id": 92,
+        "name": "The Propitious",
+        "pronounce": "An-Nafi",
+        "text": "Benefit and goodness are destined for whoever He wants, however He wants."
+    },
+    {
+        "id": 93,
+        "name": "The Light",
+        "pronounce": "An-Noor",
+        "text": "The rational guide who guides whomever He wills with His guidance, and makes clear to him the truth, and inspires him to follow it. It is apparent in itself and apparent to others."
+    },
+    {
+        "id": 94,
+        "name": "The Guide",
+        "pronounce": "Al-Haadi",
+        "text": "He shows creation the path of truth with His words, guides hearts to know Him, and souls to obey Him."
+    },
+    {
+        "id": 95,
+        "name": "The Originator",
+        "pronounce": "Al-Badi",
+        "text": "No one is like Him in His attributes, nor in any of His rulings, or any of His affairs, for He is the Creator and Creator without example."
+    },
+    {
+        "id": 96,
+        "name": "The Ever Lasting",
+        "pronounce": "Al-Baaqi",
+        "text": "He alone has eternal existence, described as eternal survival, and is indestructible, for He is eternal and endless."
+    },
+    {
+        "id": 97,
+        "name": "The Inheritor",
+        "pronounce": "Al-Waarith",
+        "text": "The most eternal and eternal one who inherits creation after the annihilation of creation, and he inherits the earth and everyone on it."
+    },
+    {
+        "id": 98,
+        "name": "The All Guided",
+        "pronounce": "Ar-Rasheed",
+        "text": "He is the happiest of whom He wills by guiding Him, and the most miserable of whom He wills by keeping Him away. He is great in wisdom and extremely well-guided."
+    },
+    {
+        "id": 99,
+        "name": "The All Patient",
+        "pronounce": "As-Saboor",
+        "text": "The forbearing one who does not rush the disobedient with vengeance, but rather pardons and delays, and does not rush to act before its time."
+    }
+]

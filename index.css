@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'HarmattanRegular';
+    src: url('fonts/Harmattan-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RobotoRegular';
+    src: url('fonts/RobotoCondensed-Regular.ttf') format('truetype');
+}
+
+.middle {
+    background-image: url('img/allah-swt-name.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 500px;
+    top: 250px;
+}
+
+.names {
+    border: 2px double #2F52E0;
+    border-radius: 20px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    top: -200px;
+    left: -100px;
+    padding: 15px;
+    font-size: 20px;
+    color: #FF715B;
+    text-align: center;
+    font-family: 'RobotoRegular';
+    cursor: pointer;
+}
+
+.names p {
+    height: 30px;
+}
+
+.names p small {
+    opacity: 0;
+}
+
+.show-description p {
+    height: 150px;
+}
+
+.show-description p small {
+    opacity: 1;
+}
