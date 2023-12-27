@@ -6,23 +6,16 @@
         <title>Names of Allah Almighty</title>
     </head>
     <body>
-        <div class="middle">
-            <div class="names"><p>Merciful<br />
-                <small>Abundent in mercy, a name that is restricted to Him and cannot be said to anyone else. He is merciful with great blessings</small></p>
-            </div>
-            <div class="names"><p>The Most Merciful<br />
-                <small>He is ever gracious, always gracious, His mercy never ends, He is merciful with minutes of blessings</small></p>
-            </div>
-        </div>
-        <script>
-            $('.names').click(function() {
-                $(this).toggleClass('show-description');
-                if ($(this).hasClass('show-description')) {
-                    $(this).css('width', '200px');
-                } else {
-                    $(this).css('width', '100px');
-                }
-            });
-        </script>
+        <header>
+            <nav>
+                <button>Language</button>
+                <button>About</button>
+                <button>Help</button>
+            </nav>
+        </header>
+        <main>
+            <div class="collections"></div>
+        </main>
+        <script src="index.js"></script>
     </body>
 </html>

@@ -8,15 +8,50 @@
     src: url('fonts/RobotoCondensed-Regular.ttf') format('truetype');
 }
 
-.middle {
-    background-image: url('img/allah-swt-name.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: 400px;
-    height: 400px;
+body {
+    margin: 0;
+    font-family: 'RobotoRegular';
+}
+
+header {
+    width: 100%;
+    background-color: #2F52E0;
+    margin: 0;
     position: relative;
-    left: 500px;
-    top: 250px;
+    top: -15px;
+}
+
+header nav {
+    padding: 0;
+    margin-top: 5px;
+}
+
+header nav button:first-child {
+    margin-left: 20px;
+}
+
+header nav button {
+    margin: 0;
+    padding: 15px;
+    font-size: 18px;
+    font-family: 'RobotoRegular';
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: #FFF;
+}
+
+header nav button:hover {
+    background-color: #FF715B;
+}
+
+main {
+    background-image: url('img/allah-swt-name.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: contain;
+    width: 800px;
+    margin: 0 auto;
 }
 
 .names {
@@ -24,9 +59,6 @@
     border-radius: 20px;
     width: 100px;
     text-align: center;
-    position: relative;
-    top: -200px;
-    left: -100px;
     padding: 15px;
     font-size: 20px;
     color: #FF715B;
