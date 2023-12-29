@@ -7,3 +7,12 @@
 * Sunglow: #F9CB40
 * Lime: #BCED09
 * Byzantine Blue: #2F52E0
+
+## USAGE
+
+for starting local server to use JSON file
+
+```
+(python3/python) -m http.server 8000
+
+```

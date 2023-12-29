@@ -31,6 +31,7 @@ header nav button:first-child {
 }
 
 header nav button {
+    position: relative;
     margin: 0;
     padding: 15px;
     font-size: 18px;
@@ -45,40 +46,68 @@ header nav button:hover {
     background-color: #FF715B;
 }
 
+h1 {
+    text-align: center;
+}
+
 main {
-    background-image: url('img/allah-swt-name.png');
-    background-repeat: no-repeat;
-    background-position: top right;
-    background-size: contain;
-    width: 800px;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+}
+
+#collections {
+    display: flex;
+    flex-wrap: wrap;
+    width: 950px;
     margin: 0 auto;
 }
 
 .names {
+    float: left;
     border: 2px double #2F52E0;
     border-radius: 20px;
     width: 100px;
     text-align: center;
-    padding: 15px;
-    font-size: 20px;
+    padding: 10px;
+    font-size: 16px;
     color: #FF715B;
     text-align: center;
     font-family: 'RobotoRegular';
     cursor: pointer;
+    margin: 5px;
 }
 
 .names p {
-    height: 30px;
+    height: 5vh;
 }
 
-.names p small {
-    opacity: 0;
+.popup {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 200px;
+    height: 250px;
+    background-color: #FFF;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    z-index: 2;
 }
 
-.show-description p {
-    height: 150px;
+.popup-content {
+    text-align: center;
+    text-wrap: wrap;
+    padding: 0;
 }
 
-.show-description p small {
-    opacity: 1;
+.popup-content #popupTitle {
+    position: relative;
+    top: -12px;
+}
+
+.popup-content #popupTxt {
+    position: relative;
+    top: -15px;
 }
